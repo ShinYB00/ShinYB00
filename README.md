@@ -3,7 +3,7 @@
 <br>
 <br>
 
-### 💻🌱 It's me! 🌱💻
+### 🌱 It's me! 🌱
 Backend Developer
 <br>
 <br>
